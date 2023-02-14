@@ -1,0 +1,37 @@
+.navbar-nav {
+    justify-content: center;
+}
+
+.card-title{
+    text-align: center;
+    color: brown;
+
+}
+
+.card-text{
+    color: #000;
+}
+
+.icone {
+    padding-right: 20px;
+}
+
+.col-sm-6 {
+    margin-top: 20px;
+}
+
+.text-title {
+    color: #b42d0b;
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: bisque;
+    
+    
+}
+
+.card-body .btn btn-primary {
+    justify-content: center;
+    align-items: center;
+}
+    
